@@ -1,16 +1,19 @@
+import "../styles/common.scss"
 import * as React from "react"
+import Header from "../components/header"
+import Footer from "../components/Footer"
+import Main from "../components/Main"
 
-const pageStyles = {
-  color: "#fff",
-  backgroundColor: "#0000ff"
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
 
 const IndexPage = () => {
   return (
-    <main style={pageStyles}>
-      Pada
+    <>
+    <Header />
+    <main>
+      <Main />
     </main>
+    <Footer />
+    </>
   )
 }
 
