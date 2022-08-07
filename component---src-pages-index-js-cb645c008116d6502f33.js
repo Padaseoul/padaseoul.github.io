@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkpada=self.webpackChunkpada||[]).push([[678],{6558:function(e,a,n){n.r(a),n.d(a,{Head:function(){return f}});var t=n(7294),r={color:"#fff",backgroundColor:"#0000ff",fontFamily:"-apple-system, Roboto, sans-serif, serif"};a.default=function(){return t.createElement("main",{style:r},"Pada Seoul")};var f=function(){return t.createElement("title",null,"Pada")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-cb645c008116d6502f33.js.map
