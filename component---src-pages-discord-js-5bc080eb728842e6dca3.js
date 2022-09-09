@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpada=self.webpackChunkpada||[]).push([[4],{6e3:function(n,e,t){t.r(e);var u=t(7294);e.default=function(){return(0,u.useEffect)((function(){window.location.href="https://discord.gg/FYVz7EsU9N"}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-discord-js-5bc080eb728842e6dca3.js.map
