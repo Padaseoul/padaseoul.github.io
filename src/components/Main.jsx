@@ -6,7 +6,6 @@ function Main() {
     <>
     <nav className="gnb">
       <ul>
-        <li><a href="https://twitch.tv/padaseoul" target="_blank" rel="noreferrer">Twitch</a></li>
         <li><a href="https://twitter.com/PadaSeoul" target="_blank" rel="noreferrer">Twitter</a></li>
         <li><a href="https://instagram.com/padaseoul" target="_blank" rel="noreferrer">Instagram</a></li>
         <li><Link to="/discord">Discord</Link></li>
